@@ -1,4 +1,9 @@
-Christoffel Chef Menu App – Part 2
+Developer: [Iyad Hassim]
+Student Number: [ST10474150]
+Group: [3]
+Course: [HMAW0501]
+Subject: [MAST5112]
+App: [Christoffel Chef Menu App]
 
 Overview
 This is a React Native mobile application.  
